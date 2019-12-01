@@ -1,0 +1,5 @@
+1. https://reactjs.org/docs/getting-started.html (Main Concepts)
+2. https://jestjs.io/en/
+3. https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a (Overview)
+4. https://en.wikipedia.org/wiki/Shift-left_testing
+5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript

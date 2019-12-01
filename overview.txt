@@ -1,0 +1,23 @@
+1. Shift Left Testing
+  - What is it?
+  - Type?
+  - Advantages/Disadvantages?
+2. JavaScript
+  - Syntax
+  - Concept
+  - ES6/ES5 
+3. ReactJS
+  - JSX
+  - Component
+  - State
+  - Lifecycle
+  - Events
+4. Testing in React
+  - Test types
+  - Test tools
+  - Test runner
+  - Mock vs stub
+  - Snapshot testing (Jest)
+  - jsdom
+  - jest (unit + integration)
+  - nightwatchjs, puppeteer, selenium, cypress,... (functional test)
